@@ -1,0 +1,6 @@
+{
+  "name": "Realm of Eldoria - 2D MMORPG",
+  "description": "A real-time 2D MMORPG with multiplayer exploration, monster combat, classes, loot, quests, boss battles, and live world chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
